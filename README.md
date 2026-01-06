@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Vansh verma
 
-<!--
-**vansh-verma-dev/vansh-verma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | Aspiring Full Stack Developer  
+💻 Front-End Developer: HTML, CSS, JavaScript, Bootstrap  
+⚛️ Currently Learning: React  
+📍 Meerut, Uttar Pradesh, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap5
+- Responsive Design  
+
+---
+
+## 📂 Projects
+- Responsive Website  
+- Login Page UI  
+- JavaScript Mini Projects  
+
+---
+
+## 📫 Connect With Me
+- 📸 Instagram: https://www.instagram.com/igvanshverma
