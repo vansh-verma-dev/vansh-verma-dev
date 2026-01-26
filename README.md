@@ -1,27 +1,23 @@
-# 👋 Hi, I'm Vansh verma
+# Calculator Project
 
-🎓 Student | Aspiring Full Stack Developer  
-💻 Front-End Developer: HTML, CSS, JavaScript, Bootstrap  
-⚛️ Currently Learning: React  
-📍 Meerut, Uttar Pradesh, India  
+This project is a **simple calculator** built using **HTML, CSS & JavaScript**.  
+It can perform **basic arithmetic operations** like addition, subtraction, multiplication, and division.  
 
----
+##   Features
+- User-friendly interface
+- Clean and responsive design
+ 
 
-## 🚀 Skills
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap5
-- Responsive Design  
+##   Technologies Used
+- HTML5 (structure)
+- CSS3 (design and responsive layout)
+- JavaScript (calculator logic and interactivity)
 
----
+##   Responsive Design
+- Works perfectly on mobile, tablet, and desktop screens
+- Buttons and display adjust automatically to screen size
 
-## 📂 Projects
-- Responsive Website  
-- Login Page UI  
-- JavaScript Mini Projects  
-
----
-
-## 📫 Connect With Me
-- 📸 Instagram: https://www.instagram.com/igvanshverma
+##   Purpose
+This project is a **simple web-based calculator** designed for learning DOM manipulation, event handling, and basic JavaScript logic.  
+It is suitable for beginners to practice **HTML, CSS, and JS integration**.
+ 
