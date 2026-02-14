@@ -30,6 +30,16 @@
     height: 30px;
     width: 350px;
  }
+ button{
+     margin-bottom: 10px;
+    height: 30px;
+    width: 350px;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: darkblue;
+ }
  #Result{
     text-align: center;
     font-size: 20px;
