@@ -1,3 +1,24 @@
+<!-- ========== HEADER ========== -->
+
+<h1 align="center">Hi , I'm Vansh Verma</h1>
+
+<h3 align="center">
+MERN stack Developer | Web Development | Building Projects
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+and+Building+Every+Day;Turning+Ideas+Into+Projects" alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/vansh-verma-dev">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" alt="Web Development" />
+</p>
+
+---
+
 # 💫 About Me:
 Hi, I'm Vansh   <br>Aspiring Full-Stack (MERN) Developer focused on building real-world web applications.  <br>Currently sharpening my skills in modern JavaScript and React while working on practical projects.  <br>I also run a computer coaching center, which has helped me develop strong teaching and problem-solving skills.  <br>Passionate about learning, building, and growing in tech. <br/>
 Portfolio Link:  https://vansh-dev.onrender.com/
@@ -12,115 +33,3 @@ Portfolio Link:  https://vansh-dev.onrender.com/
 ![](https://github-readme-stats.shion.dev/api?username=vansh-verma-dev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=vansh-verma-dev&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vansh-verma-dev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!-- ========== HEADER ========== -->
-
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
-
-<h3 align="center">
-  Aspiring Developer | Web Development | Building Projects
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+and+Building+Every+Day;Turning+Ideas+Into+Projects" alt="Typing introduction" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" alt="Web Development" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on personal web development projects.
-- 🌱 Learning and improving my programming skills.
-- 💡 Interested in websites, Android apps and useful digital products.
-- 🎯 Goal: Build practical projects and grow as a developer.
-- 🤝 Open to learning, collaboration and open-source contributions.
-- ⚡ I enjoy turning ideas into working projects.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,git,github,vscode&perline=5" alt="Technology icons" />
-</p>
-
-<!-- Remove technologies you do not use yet. -->
-
----
-
-## 🚀 Featured Projects
-
-<!-- Replace these placeholders with your real repositories. -->
-
-### 🌐 Popwala
-A web project currently under development.
-
-- **Tech:** Add your actual technologies here.
-- **Repository:** [View Project](https://github.com/YOUR_GITHUB_USERNAME/POPWALA_REPO)
-
-### 🎮 Gaming Community App
-A planned gaming community platform with profiles, videos and a digital store.
-
-- **Tech:** Add your actual technologies here.
-- **Repository:** [View Project](https://github.com/YOUR_GITHUB_USERNAME/GAMING_REPO)
-
-### 💻 Apex Coder
-My developer brand and coding projects.
-
-- **Repository:** [View Projects](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight"
-    alt="GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Most used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  💬 Feel free to explore my repositories and follow my coding journey!
-</p>
-
----
-
-<p align="center">
-  <i>Building. Learning. Improving. One project at a time. 🚀</i>
-</p>
-
