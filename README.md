@@ -59,11 +59,10 @@ I turn ideas into fast, responsive and secure web applications.
 
 | Project | What it is | Status |
 | :--- | :--- | :--- |
-| **Prajanya Healthcare** | Medicine e-commerce website with an admin page to manage orders and products | Completed |
-| **JS Master** | React app with JavaScript notes, project tasks and a learning roadmap | Completed |
+| **GoRivo** | Uber-style ride booking app |Complete |
 | **TrueBook** | Tally-inspired accounting app with a clean UI | Frontend done, backend next |
-| **ApexStore** | E-commerce platform with product listing and cart | Frontend done, backend next |
-| **GoRivo** | Uber-style ride booking app | In progress |
+| **ApexStore** | E-commerce platform with product listing and cart | Frontend done|
+
 
 See demos and details on my **[portfolio](https://vansh-dev-blue.vercel.app/)**.
 
